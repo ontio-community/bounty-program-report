@@ -1,5 +1,5 @@
-# Smartx=X
-
+# SmartxX
+[SmartxX](https://github.com/ontio/ontology-smartcontract/blob/master/smart-contract-tutorial/Smart_Contract_Deployment.md)
 ## Overview
 
 ## Installation
